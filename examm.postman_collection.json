@@ -1,0 +1,110 @@
+{
+	"info": {
+		"_postman_id": "a9ba329f-1517-4714-9b56-9c8303bafa68",
+		"name": "examm",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "27682359"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6ImRhbnkxMjMiLCJwYXNzd29yZCI6IjEyMzQ1NmRGISEiLCJpYXQiOjE2OTAxMjk4Njd9.O_DnT6hAxDvnWE5zMH3b8yVClsrNqwj_xmiaQ8h6tv4"
+					}
+				},
+				"method": "GET",
+				"header": [],
+				"url": "https://demoqa.com/Account/v1/User/33cda6b3-8f0d-439d-889c-4dd4de26ac41"
+			},
+			"response": []
+		},
+		{
+			"name": "https://demoqa.com/Account/v1/Authorized",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "token",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n \"userName\": \"dany123\",\r\n  \"password\": \"123456dF!!\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://demoqa.com/Account/v1/Authorized"
+			},
+			"response": []
+		},
+		{
+			"name": "https://demoqa.com/BookStore/v1/Books/9781449365035",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6ImRhbnkxMjMiLCJwYXNzd29yZCI6IjEyMzQ1NmRGISEiLCJpYXQiOjE2OTAxMjQzOTh9.ollcw7Gw6l4HcOvjDoCbrZqvApOEXuGCfaOwQkvOv-4"
+					}
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userId\": \"33cda6b3-8f0d-439d-889c-4dd4de26ac41\",\r\n  \"isbn\": \"9781449365035\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://demoqa.com/BookStore/v1/Books/9781449365035"
+			},
+			"response": []
+		},
+		{
+			"name": "https://demoqa.com/BookStore/v1/Book",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6ImRhbnkxMjMiLCJwYXNzd29yZCI6IjEyMzQ1NmRGISEiLCJpYXQiOjE2OTAxMjk4Njd9.O_DnT6hAxDvnWE5zMH3b8yVClsrNqwj_xmiaQ8h6tv4"
+					}
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "isbn",
+							"value": "9781449365035",
+							"type": "text"
+						},
+						{
+							"key": "userId",
+							"value": "33cda6b3-8f0d-439d-889c-4dd4de26ac41",
+							"type": "text"
+						}
+					]
+				},
+				"url": "https://demoqa.com/BookStore/v1/Book"
+			},
+			"response": []
+		}
+	]
+}

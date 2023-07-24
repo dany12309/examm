@@ -1,0 +1,30 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690132172205,272,http://ba.ts.kg/ba/aspc.php?zones=1&prefix=revive-0-&loc=http%3A%2F%2Fwww.ts.kg%2F,200,OK,Thread Group 1-1,text,true,,950,262,1,1,http://ba.ts.kg/ba/aspc.php?loc=http%3A%2F%2Fwww.ts.kg%2F&prefix=revive-0-&zones=1,259,0,224
+1690132172504,6290,http://www.ts.kg/show/vyzhit_v_dubae,200,OK,Thread Group 1-1,text,true,,1699908,9706,1,1,http://www.ts.kg/show/vyzhit_v_dubae,123,0,15
+1690132172504,129,http://www.ts.kg/show/vyzhit_v_dubae-0,200,OK,Thread Group 1-1,text,true,,63571,378,1,1,http://www.ts.kg/show/vyzhit_v_dubae,123,0,15
+1690132173026,43,http://www.ts.kg/show/vyzhit_v_dubae-1,200,OK,Thread Group 1-1,bin,true,,9783,374,1,1,http://www.ts.kg/img/favicon.png,43,0,16
+1690132173025,95,http://www.ts.kg/show/vyzhit_v_dubae-2,200,OK,Thread Group 1-1,text,true,,196302,389,1,1,http://www.ts.kg/css/app.min.css?version=4.10.3,28,0,11
+1690132173025,28,http://www.ts.kg/show/vyzhit_v_dubae-3,200,OK,Thread Group 1-1,text,true,,266,373,1,1,http://www.ts.kg/js/branding.js,28,0,12
+1690132173024,5770,http://www.ts.kg/show/vyzhit_v_dubae-4,200,OK,Thread Group 1-1,text,true,,261285,397,1,1,https://www.googletagmanager.com/gtag/js?id=G-ZPVXZWYPHN,5499,0,5419
+1690132173027,43,http://www.ts.kg/show/vyzhit_v_dubae-5,200,OK,Thread Group 1-1,text,true,,2245,371,1,1,http://www.ts.kg/img/logo.svg,43,0,17
+1690132173027,51,http://www.ts.kg/show/vyzhit_v_dubae-6,200,OK,Thread Group 1-1,bin,true,,95353,409,1,1,http://www.ts.kg/olol1/8cbb2107d378f0c2c90b6e4ec3b49052a7ff35cb.jpg,17,0,0
+1690132173056,45,http://www.ts.kg/show/vyzhit_v_dubae-7,200,OK,Thread Group 1-1,bin,true,,84470,385,1,1,http://www.ts.kg/posters/vyzhit_v_dubae.png,14,0,0
+1690132173071,17,http://www.ts.kg/show/vyzhit_v_dubae-8,200,OK,Thread Group 1-1,bin,true,,3695,392,1,1,http://www.ts.kg/shots2/vyzhit_v_dubae/64865_s.jpg,17,0,0
+1690132173071,16,http://www.ts.kg/show/vyzhit_v_dubae-9,200,OK,Thread Group 1-1,bin,true,,4512,392,1,1,http://www.ts.kg/shots2/vyzhit_v_dubae/64866_s.jpg,16,0,0
+1690132173081,21,http://www.ts.kg/show/vyzhit_v_dubae-10,200,OK,Thread Group 1-1,bin,true,,5119,392,1,1,http://www.ts.kg/shots2/vyzhit_v_dubae/64867_s.jpg,21,0,0
+1690132173089,29,http://www.ts.kg/show/vyzhit_v_dubae-11,200,OK,Thread Group 1-1,bin,true,,7456,392,1,1,http://www.ts.kg/shots2/vyzhit_v_dubae/64868_s.jpg,29,0,0
+1690132173090,27,http://www.ts.kg/show/vyzhit_v_dubae-12,200,OK,Thread Group 1-1,bin,true,,6219,392,1,1,http://www.ts.kg/shots2/vyzhit_v_dubae/64869_s.jpg,27,0,0
+1690132173103,75,http://www.ts.kg/show/vyzhit_v_dubae-13,200,OK,Thread Group 1-1,bin,true,,56124,390,1,1,http://www.ts.kg/posters/fort_boyard_vozvrat.png,17,0,0
+1690132173105,5306,http://www.ts.kg/show/vyzhit_v_dubae-14,200,OK,Thread Group 1-1,text,true,,539,383,1,1,https://www.ts.kg/img/flags/svg/4x3/ru.svg,5305,0,5296
+1690132173126,48,http://www.ts.kg/show/vyzhit_v_dubae-15,200,OK,Thread Group 1-1,bin,true,,87508,382,1,1,http://www.ts.kg/posters/novye_tancy.png,19,0,0
+1690132173126,53,http://www.ts.kg/show/vyzhit_v_dubae-16,200,OK,Thread Group 1-1,bin,true,,100617,392,1,1,http://www.ts.kg/posters/prostranstva_v_rossii.png,20,0,0
+1690132173178,28,http://www.ts.kg/show/vyzhit_v_dubae-17,200,OK,Thread Group 1-1,bin,true,,95524,383,1,1,http://www.ts.kg/posters/trevel_battl.png,8,0,0
+1690132173181,62,http://www.ts.kg/show/vyzhit_v_dubae-18,200,OK,Thread Group 1-1,bin,true,,53329,380,1,1,http://www.ts.kg/posters/inturisty.png,14,0,0
+1690132173180,33,http://www.ts.kg/show/vyzhit_v_dubae-19,200,OK,Thread Group 1-1,bin,true,,95937,379,1,1,http://www.ts.kg/posters/poekhali.png,15,0,0
+1690132173216,72,http://www.ts.kg/show/vyzhit_v_dubae-20,200,OK,Thread Group 1-1,bin,true,,188863,409,1,1,http://www.ts.kg/olol1/208ba04668c1590acf5e5fc5d816686901492868.png,10,0,0
+1690132173214,28,http://www.ts.kg/show/vyzhit_v_dubae-21,200,OK,Thread Group 1-1,bin,true,,51937,409,1,1,http://www.ts.kg/olol1/a579f37d3c7794ad65f5637433f5fe917c78264f.png,12,0,0
+1690132173246,52,http://www.ts.kg/show/vyzhit_v_dubae-22,200,OK,Thread Group 1-1,text,true,,191792,387,1,1,http://www.ts.kg/js/app.min.js?version=4.10.3,12,0,0
+1690132173246,14,http://www.ts.kg/show/vyzhit_v_dubae-23,200,OK,Thread Group 1-1,text,true,,4569,370,1,1,http://ba.ts.kg/ba/async.php,14,0,0
+1690132173264,24,http://www.ts.kg/show/vyzhit_v_dubae-24,200,OK,Thread Group 1-1,text,true,,32893,406,1,1,http://www.ts.kg/js/jquery.blueimp-gallery.min.js?version=4.10.3,23,0,0
+1690132178803,15,http://ba.ts.kg/ba/aspc.php?zones=1%7C2&prefix=revive-0-&loc=http%3A%2F%2Fwww.ts.kg%2Fshow%2Fvyzhit_v_dubae&referer=http%3A%2F%2Fwww.ts.kg%2F,200,OK,Thread Group 1-1,text,true,,1575,321,1,1,http://ba.ts.kg/ba/aspc.php?loc=http%3A%2F%2Fwww.ts.kg%2Fshow%2Fvyzhit_v_dubae&referer=http%3A%2F%2Fwww.ts.kg%2F&prefix=revive-0-&zones=1%7C2,15,0,0
+1690132170788,6577,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,1702433,10289,1,1,null,397,1454,239
